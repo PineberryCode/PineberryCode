@@ -1,7 +1,6 @@
 ### System.out.println("Hi there");
 
-#### My main programming languages are: JAVA, T-SQL and JavaScript. 
-#### I have some skills in networks comunication (I usually use Cisco Packet Tracer).
+#### My main programming languages are: JAVA, T-SQL and JavaScript.
 
 - 🌱 I’m currently studying system engineering.
 - I 💖 JAVA
