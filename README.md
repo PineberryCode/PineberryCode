@@ -1,39 +1,9 @@
 ```JAVA
 public class ME {
   
-  private String studying_professionalCareer;
-  private String[] mySkills;
-  private String[] pronouns;
-  
-  public ME () {}
-  
-  public String getProfessionalCareer () { return professionalCareer; }
-  public void setProfessionalCareer ( String professionalCareer ) { this.professionalCareer = professionalCareer; }
-  
-  public String[] getMySkills () { return mySkills; }
-  public void setMySkills ( String[] mySkills ) { this.mySkills = mySkills; }
-  
-  public String[] getPronouns () { return pronouns; }
-  public void setPronouns ( String[] pronouns ) { this.pronouns = pronouns; }
-  
-  public void show () {
-    System.out.println("Career:"+this.getProfessionalCareer());
-    System.out.println("Skills:");
-    for (int i=0; i<this.mySkills.length;i++){
-      System.out.println(this.mySkills[i]);
-    }
-    System.out.println("Pronouns:");
-    for (int j=0; j<this.pronouns.length;j++){
-      System.out.println(this.pronouns[j]);
-    }
-  }
-  
-  public static void main(String[] args) {
-    ME me = new ME();
-    me.setProfessionalCareer("Systems Engineering");
-    me.setMySkills(new String[]{"JAVA","T-SQL","Javascript","HTML","CSS"});
-    me.setPronouns(new String[]{"He","Him"});
-    me.show();
-  }
+  public String studying_professionalCareer = "Systems Engineering";
+  public String[] mySkills = { "JAVA", "T-SQL", "Javascript", "HTML", "CSS" };
+  public String[] pronouns = { "He", "Him" };
+
 }
 ```
