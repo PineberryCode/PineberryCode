@@ -29,11 +29,11 @@ public class ME {
   }
   
   public static void main(String[] args) {
-    TestAN T = new TestAN();
-    T.setProfessionalCareer("Systems Engineering");
-    T.setMySkills(new String[]{"JAVA","T-SQL","Javascript","HTML","CSS"});
-    T.setPronouns(new String[]{"He","Him"});
-    T.show();
+    ME me = new ME();
+    me.setProfessionalCareer("Systems Engineering");
+    me.setMySkills(new String[]{"JAVA","T-SQL","Javascript","HTML","CSS"});
+    me.setPronouns(new String[]{"He","Him"});
+    me.show();
   }
 }
 ```
