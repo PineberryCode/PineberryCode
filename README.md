@@ -18,11 +18,11 @@ public class ME {
   
   public void show () {
     System.out.println("Career:"+this.getProfessionalCareer());
-    System.out.println("Skill:");
+    System.out.println("Skills:");
     for (int i=0; i<this.mySkills.length;i++){
       System.out.println(this.mySkills[i]);
     }
-    System.out.println("P:");
+    System.out.println("Pronouns:");
     for (int j=0; j<this.pronouns.length;j++){
       System.out.println(this.pronouns[j]);
     }
@@ -30,7 +30,7 @@ public class ME {
   
   public static void main(String[] args) {
     TestAN T = new TestAN();
-    T.setProfessionalCareer("Systems ENgineering");
+    T.setProfessionalCareer("Systems Engineering");
     T.setMySkills(new String[]{"JAVA","T-SQL","Javascript","HTML","CSS"});
     T.setPronouns(new String[]{"He","Him"});
     T.show();
