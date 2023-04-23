@@ -1,13 +1,13 @@
 ```JAVA
 public class ME {
   
-  String studying_professionalCareer = "Systems Engineer";
-  String[] mySkills = { "JAVA",
-                               "T-SQL",
-                               "Javascript",
-                               "HTML",
-                               "CSS",
-                               "Mustache" };
+  String studyingProfessionalCareer = "Systems Engineer";
+  String[] skills = { "JAVA",
+                      "T-SQL",
+                      "Javascript",
+                      "HTML",
+                      "CSS",
+                      "Mustache" };
 
 }
 ```
