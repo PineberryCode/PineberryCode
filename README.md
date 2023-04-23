@@ -1,8 +1,8 @@
 ```JAVA
 public class ME {
   
-  public String studying_professionalCareer = "Systems Engineer";
-  public String[] mySkills = { "JAVA",
+  String studying_professionalCareer = "Systems Engineer";
+  String[] mySkills = { "JAVA",
                                "T-SQL",
                                "Javascript",
                                "HTML",
