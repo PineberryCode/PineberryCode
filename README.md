@@ -2,9 +2,12 @@
 public class ME {
   
   public String studying_professionalCareer = "Systems Engineer";
-  public String[] mySkills = { "JAVA", "T-SQL",
-                               "Javascript", "HTML",
-                               "CSS", "Mustache" };
+  public String[] mySkills = { "JAVA",
+                               "T-SQL",
+                               "Javascript",
+                               "HTML",
+                               "CSS",
+                               "Mustache" };
 
 }
 ```
