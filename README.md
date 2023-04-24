@@ -4,10 +4,10 @@ public class ME {
   String studyingProfessionalCareer = "Systems Engineer";
   String[] skills = { "JAVA",
                       "T-SQL",
-                      "Javascript",
+                      "JAVASCRIPT",
                       "HTML",
                       "CSS",
-                      "Mustache" };
+                      "MUSTACHE"};
 
 }
 ```
