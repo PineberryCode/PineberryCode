@@ -23,4 +23,9 @@
 
 - - -
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1" alt="GitHub Streak">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs" alt="Anurag's GitHub stats">
+</p>
