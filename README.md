@@ -27,5 +27,5 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1" alt="GitHub Streak" width="45%">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs" alt="Anurag's GitHub stats" width="45%" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs" alt="Anurag's GitHub stats" width="45%" height="100">
 </p>
