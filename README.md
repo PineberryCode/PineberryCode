@@ -5,7 +5,7 @@
 - - -
 
 <div align="center">
-  <h3>Tools, programming languages and markup languages that I had used</h3>
+  <h3>🛠️ Tools, programming languages, and markup languages that I have used 🛠️</h3>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="35" height="35">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="35" height="35">
