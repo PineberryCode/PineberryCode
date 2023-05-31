@@ -15,6 +15,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="35" height="35">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="35" height="35">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" alt="Graphql" width="35" height="35">
   </div>
 </div>
 
