@@ -1,4 +1,10 @@
 
+### _I'm a self-taught programmer_ ⌨️✨
+
+## ...Something about me 🔻
+> I❤️ writing JAVA and building amenities.
+> 
+
 - - -
 ###  _Languages_ ☕
 <div align="left">
@@ -49,10 +55,8 @@
 
 - - -
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1" alt="GitHub Streak" width="45%">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=false&hide_border=true&border_radius=5&hide=prs,issues,contribs" alt="MINDLUNNY's GitHub stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineberryCode&layout=donut">
-</p>
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1" alt="GitHub Streak" width="100%"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=false&hide_border=true&border_radius=5&hide=prs,issues,contribs" alt="MINDLUNNY's GitHub stats" width="100%"></a> |
+| ------------- | ------------- |
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineberryCode&layout=donut">
+</div>
