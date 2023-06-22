@@ -1,9 +1,14 @@
 
 ### _I'm a self-taught programmer_ ⌨️✨
 
-## ...Something about me 🔻
-> I❤️ writing JAVA and building amenities.
+## Something about me 🔻
+> ***I❤️ writing JAVA and building amenities.***
 > 
+> ***I studied network and communications in Cisco courses.*** 🧑‍🎓
+>
+> ***Sometimes I like playing chess online at [Chess.com](https://www.chess.com/) or [Immortal Game](https://immortal.game/).*** ♟️🟢
+>
+> ***I put my skills to the test [HackerRank](https://www.hackerrank.com/).*** 🟩
 
 - - -
 ###  _Languages_ ☕
