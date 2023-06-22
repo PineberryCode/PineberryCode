@@ -26,6 +26,7 @@
     <img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1" alt="GitHub Streak" width="45%">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs&include_all_commits=true" alt="Anurag's GitHub stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs&include_all_commits=true" alt="MINDLUNNY's GitHub stats" width="50%">
   </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineberryCode&layout=donut">
+</p>
