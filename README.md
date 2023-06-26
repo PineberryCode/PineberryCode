@@ -8,7 +8,7 @@
 >
 > ***Sometimes I like playing chess online at [Chess.com](https://www.chess.com/) or [Immortal Game](https://immortal.game/).*** ♟️🟢
 >
-> ***I put my skills to the test [HackerRank](https://www.hackerrank.com/).*** 🟩
+> ***Occasionally I put my skills to the test [HackerRank](https://www.hackerrank.com/MINDLUNNY?hr_r=1).*** 🟩
 
 - - -
 ###  _Languages_ ☕
