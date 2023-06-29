@@ -6,7 +6,7 @@
 > 
 > ***I studied network and communications in Cisco courses.*** 🧑‍🎓
 >
-> ***Sometimes I like playing chess online at [Chess.com](https://www.chess.com/) or [Immortal Game](https://immortal.game/players/WITHUSERNAME).*** ♟️🟢
+> ***Sometimes I like playing chess online at [Chess.com](https://www.chess.com/member/mindlunny) or [Immortal Game](https://immortal.game/players/WITHUSERNAME).*** ♟️🟢
 >
 > ***Occasionally I put my skills to the test at [HackerRank](https://www.hackerrank.com/MINDLUNNY?hr_r=1).*** 🟩
 
