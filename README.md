@@ -60,7 +60,7 @@
 
 - - -
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1a&include_all_commits=true" alt="GitHub Streak" width="100%"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs&include_all_commits=false" alt="MINDLUNNY's GitHub stats" width="100%"></a> |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1a&include_all_commits=true" alt="GitHub Streak" width="100%"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=PineberryCode&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=5&hide=prs,issues,contribs&include_all_commits=false&rank_icon=github" alt="MINDLUNNY's GitHub stats" width="100%"></a> |
 | ------------- | ------------- |
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PineberryCode&layout=donut&langs_count=8">
