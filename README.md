@@ -57,4 +57,6 @@
 
 - - -
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1a&include_all_commits=true" alt="GitHub Streak" width="100%"></a>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=highcontrast&hide_border=true&border_radius=5&background=000&stroke=900C3F&ring=260fd1&fire=260fd1a&include_all_commits=true" alt="GitHub Streak" width="70%"></a>
+</div>
