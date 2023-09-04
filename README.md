@@ -1,4 +1,9 @@
-### Hello, I'm Mindlunny ✨
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=1532F7&vCenter=true&width=500&separator=%3C&lines=System.out.print(%22Hello%2C+I'm+Mindlunny%22);%3Cconsole.log(%22Привет%2C+я+PineberryCode%22)" alt="Typing SVG">
+  </a>
+</div>
+
 <div align="center">
   
 |  |  |
