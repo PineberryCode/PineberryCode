@@ -1,4 +1,4 @@
-### Hello, I'm Mindlunny ✨
+### Hello, It's Mindlunny ✨
 <div align="center">
   
 |  |  |
