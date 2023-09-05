@@ -5,9 +5,29 @@
 </div>
 
 <div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+<details>
+  <summary><h2>Score ✨</h2></summary>
+<div align="center">
   
 |  |  |
 | - | - |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PineberryCode&theme=android-dark&layout=compact&langs_count=10&hide=html,mustache,css&hide_title=true)| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=android-dark&hide_border=true&border_radius=5&include_all_commits=true" alt="GitHub Streak" width="100%"></a> |
 
 </div>
+</details>
