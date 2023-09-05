@@ -42,4 +42,10 @@
   <h3>👾 Frameworks and Library</h3>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white"></a>
+  <a href="#"><img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=plastic&logo=apollo-graphql&logoColor=white"></a>
+  <a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="Java FX" src="https://img.shields.io/badge/JavaFX-0496FF?style=plastic&logo=javafx&logoColor=white"></a>
+  <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-BCB8B1?style=plastic&logo=lombok&logoColor=white"></a>
 </details>
