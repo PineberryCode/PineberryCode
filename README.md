@@ -39,5 +39,5 @@
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=black">
   <a href="#"><img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-469678?style=plastic&logo=quarkus&logoColor=black"></a>
   <a href="#"><img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-D34A4A?style=plastic&logo=java&logoColor=black"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=black"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"></a>
 </details>
