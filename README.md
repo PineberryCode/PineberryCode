@@ -45,3 +45,8 @@
 <div align="center">
   <a href="https://www.hackerrank.com/MINDLUNNY"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
+<br>
+<a href="https://www.hackthebox.com/home/users/profile/554105">
+  <img src="https://www.hackthebox.eu/badge/image/554105" alt="Hack The Box" height="50">
+</a>
+
