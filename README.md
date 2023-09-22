@@ -19,13 +19,14 @@
 
 <details>
   <summary><b>Favorite Tools 🛠️</b></summary>
+  <br>
   <b>🗄️ Databases and Cloud Hosting<b><br><br>
   <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=black"></a>
   <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=black"></a>
   <a><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=black"></a>
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=black"></a>
   <a><img alt="MSSQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastice&logo=microsoft-sql-server&logoColor=black"></a>
-  <a><img alt="Mongo Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=plastic&logo=mongodb&logoColor=black"><br>
+  <a><img alt="Mongo Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=plastic&logo=mongodb&logoColor=black"><br><br>
   <b>👾 Frameworks and Library</b><br><br>
   <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=black"></a>
   <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=black"></a>
@@ -40,11 +41,16 @@
   <a><img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-D34A4A?style=plastic&logo=java&logoColor=black"></a>
   <a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"></a>
 </details>
+<br>
+
+- - -
 
 <div align="center">
   <a href="https://www.hackerrank.com/MINDLUNNY"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
-<br>
+
+- - -
+
 <div align="left">
 <a>
   <img src="https://www.hackthebox.eu/badge/image/554105" alt="Hack The Box" height="50">
