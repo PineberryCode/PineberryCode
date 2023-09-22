@@ -10,7 +10,7 @@
 </div>
 
 <details>
-  <summary>Stats ✨</summary>
+  <summary><b>Stats ✨</b></summary>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=PineberryCode&layout=compact&langs_count=10&hide=html,mustache,CSS&bg_color=0c0021&icon_color=F8D866&title_color=F85D7F&hide_border=true" height="192px"></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=radical&border_radius=5&include_all_commits=true&hide_border=true" alt="GitHub Streak" height="192px"></a>
@@ -18,15 +18,15 @@
 </details>
 
 <details>
-  <summary>Favorite Tools 🛠️</summary>
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <summary><b>Favorite Tools 🛠️</b></summary>
+  <b>🗄️ Databases and Cloud Hosting<b>
   <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=black"></a>
   <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=black"></a>
   <a><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=black"></a>
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=black"></a>
   <a><img alt="MSSQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastice&logo=microsoft-sql-server&logoColor=black"></a>
   <a><img alt="Mongo Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=plastic&logo=mongodb&logoColor=black">
-  <h3>👾 Frameworks and Library</h3>
+  <b>👾 Frameworks and Library</b>
   <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=black"></a>
   <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=black"></a>
   <a><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=black"></a>
