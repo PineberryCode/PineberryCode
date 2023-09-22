@@ -10,16 +10,15 @@
 </div>
 
 <details>
-  <summary><h2>Stats ✨</h2></summary>
+  <summary>Stats ✨</summary>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=PineberryCode&layout=compact&langs_count=10&hide=html,mustache,CSS&bg_color=0c0021&icon_color=F8D866&title_color=F85D7F&hide_border=true" height="192px"></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=radical&border_radius=5&include_all_commits=true&hide_border=true" alt="GitHub Streak" height="192px"></a>
-
 </div>
 </details>
 
 <details>
-  <summary><h2>Favorite Tools 🛠️</h2></summary>
+  <summary>Favorite Tools 🛠️</summary>
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=black"></a>
   <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=black"></a>
