@@ -27,7 +27,7 @@
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=black"></a>
   <a><img alt="MSSQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastice&logo=microsoft-sql-server&logoColor=black"></a>
   <a><img alt="Mongo Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=plastic&logo=mongodb&logoColor=black"><br><br>
-  <b>👾 Frameworks and Library</b><br><br>
+  <b>👾 Frameworks and Libraries</b><br><br>
   <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=black"></a>
   <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=black"></a>
   <a><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=black"></a>
