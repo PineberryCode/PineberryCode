@@ -21,25 +21,40 @@
   <summary><b>Favorite Tools 🛠️</b></summary>
   <br>
   <b>🗄️ Databases and Cloud Hosting<b><br><br>
-  <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=black"></a>
-  <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=black"></a>
-  <a><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=black"></a>
-  <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=black"></a>
-  <a><img alt="MSSQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastice&logo=microsoft-sql-server&logoColor=black"></a>
-  <a><img alt="Mongo Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-4EA94B?style=plastic&logo=mongodb&logoColor=black"><br><br>
+  <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a><img alt="MSSQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a><br><br>
   <b>👾 Frameworks and Libraries</b><br><br>
-  <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=black"></a>
-  <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=black"></a>
-  <a><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=black"></a>
-  <a><img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=plastic&logo=apollo-graphql&logoColor=black"></a>
-  <a><img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=black"></a>
-  <a><img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=black"></a>
-  <a><img alt="Java FX" src="https://img.shields.io/badge/JavaFX-0496FF?style=plastic&logo=javafx&logoColor=black"></a>
-  <a><img alt="Lombok" src="https://img.shields.io/badge/Lombok-BCB8B1?style=plastic&logo=lombok&logoColor=black"></a>
-  <a><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=black">
+  <a><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+  <a><img alt="Apollo GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"></a>
+  <a><img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+  <a><img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <a><img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-469678?style=plastic&logo=quarkus&logoColor=black"></a>
-  <a><img alt="Java Swing" src="https://img.shields.io/badge/Java%20Swing-D34A4A?style=plastic&logo=java&logoColor=black"></a>
-  <a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"></a>
+  <a><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a><img alt="Jango" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a><br><br>
+  <b> 💻🖱️ IDE's </b><br><br>
+  <a><img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
+  <a><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
+  <a><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a><br><br>
+  <b>☕ Languages</b><br><br>
+  <a><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+  <a><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+  <a><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /></a><br><br>
+  <b> 🖥️🐧 OS </b><br><br>
+  <a><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+  <a><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" /></a>
+  <a><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" /></a>
+  <a><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a><br><br>
+  <b>🛠️ Other</b><br><br>
+  <a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a><br><br>
 </details>
 <br>
 
