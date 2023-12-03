@@ -32,7 +32,7 @@
   <a><img alt="Node JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a><img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <a><img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-469678?style=plastic&logo=quarkus&logoColor=black"></a>
+  <a><img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=fff&style=for-the-badge"></a>
   <a><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
   <a><img alt="Jango" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
   <a><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a><br><br>
