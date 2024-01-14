@@ -14,6 +14,9 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=PineberryCode&layout=compact&langs_count=10&hide=html,mustache,CSS&bg_color=0c0021&icon_color=F8D866&title_color=F85D7F&hide_border=true" height="192px"></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PineberryCode&theme=radical&border_radius=5&include_all_commits=true&hide_border=true" alt="GitHub Streak" height="192px"></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PineberryCode&theme=merko">
+</a>
 </div>
 </details>
 
