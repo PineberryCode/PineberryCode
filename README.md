@@ -67,6 +67,7 @@
 
 <div align="center">
   <a href="https://www.hackerrank.com/MINDLUNNY"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://leetcode.com/MINDLUNNY/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMINDLUNNY&logo=leetcode&logoColor=yellow"></a>
   <a href="https://dev.to/mindlunny"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.instagram.com/no_root.jdlc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
