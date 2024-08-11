@@ -59,19 +59,3 @@
   <a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a><br><br>
 </details>
 <br>
-
-- - -
-
-<div align="center">
-  <a href="https://www.hackerrank.com/MINDLUNNY"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://leetcode.com/MINDLUNNY/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMINDLUNNY&logo=leetcode&logoColor=yellow"></a>
-  <a href="https://dev.to/mindlunny"><img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-</div>
-
-- - -
-
-<div align="left">
-<a>
-  <img src="https://www.hackthebox.eu/badge/image/554105" alt="Hack The Box" height="50">
-</a>
-</div>
