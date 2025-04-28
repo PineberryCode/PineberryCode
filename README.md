@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=1532F7&vCenter=true&width=500&separator=%3C&lines=System.out.print(%22Hello%2C+I'm+Mindlunny%22);%3Cconsole.log(%22Привет%2C+я+PineberryCode%22)" alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=27&duration=3000&pause=1000&color=4D22F7&center=true&vCenter=true&width=500&separator=%3C&lines=System.out.print(Hello%2C+I'm+Mindlunny+%E2%9C%A8);%3Cprint!(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+PineberryCode+%F0%9F%91%BE);" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
